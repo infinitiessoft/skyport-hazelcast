@@ -11,6 +11,16 @@
 	<name>skyport-hazelcast</name>
 	<packaging>jar</packaging>
 	<description>skyport-hazelcast is a distributed implementation by hazelcast</description>
+	<organization>
+		<name>InfinitiesSoft, Inc.</name>
+		<url>http://www.infinitiessoft.com/</url>
+	</organization>
+	<licenses>
+		<license>
+			<name>Apache License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0</url>
+		</license>
+	</licenses>
 
 
 	<dependencies>
